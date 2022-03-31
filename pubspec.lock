@@ -105,9 +105,11 @@ packages:
   shimmer_me:
     dependency: "direct main"
     description:
-      path: "../shimmer_me"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: bf45834311aa86ae602fbaab5e7b7fafb8b3cdb9
+      url: "https://github.com/rkumar1904/shimmer_me.git"
+    source: git
     version: "0.0.1"
   sky_engine:
     dependency: transitive
